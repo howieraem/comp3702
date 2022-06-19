@@ -1,0 +1,125 @@
+Resetting simulator
+Start State: [ Pos=1 | Car=EHIBT | Driver=UFdfM | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+0.657
+0.43164900000000017
+0.2835933930000003
+0.18632085920099994
+0.12241280449505698
+0.0804252125532523
+0.05283936464748651
+0.03471546257339897
+0.02280805891072335
+0.014984894704344942
+0.00984507582075489
+0.006468214814235651
+0.00424961713295291
+0.002791998456350253
+0.0018343429858216354
+0.0012051633416851892
+7.917923154869833E-4
+5.202075512751314E-4
+3.4177636118792876E-4
+2.245470693003071E-4
+1.4752742452994738E-4
+9.692551791662396E-5
+6.368006527113224E-5
+4.183780288302685E-5
+2.7487436494055828E-5
+1.8059245777024557E-5
+1.1864924474913607E-5
+7.795255380305122E-6
+5.121482784975484E-6
+3.364814189943388E-6
+2.210682922498819E-6
+1.452418679992462E-6
+9.54239072648022E-7
+6.269350709686705E-7
+4.118963414789789E-7
+2.706158963583505E-7
+1.7779464389633404E-7
+1.168110808080769E-7
+7.674488067266338E-8
+Step 0: performing A1
+	Sampled move distance=-2
+	Next State: [ Pos=1 | Car=EHIBT | Driver=UFdfM | Tire=ALL_TERRAIN | Pressure=100% | Fuel=41 ]
+
+Step 1: performing A1
+	Sampled move distance=-4
+	Next State: [ Pos=1 | Car=EHIBT | Driver=UFdfM | Tire=ALL_TERRAIN | Pressure=100% | Fuel=32 ]
+
+Step 2: performing A1
+	Sampled move distance=4
+	Next State: [ Pos=5 | Car=EHIBT | Driver=UFdfM | Tire=ALL_TERRAIN | Pressure=100% | Fuel=23 ]
+
+Step 3: performing A1
+	Sampled move distance=2
+	Next State: [ Pos=7 | Car=EHIBT | Driver=UFdfM | Tire=ALL_TERRAIN | Pressure=100% | Fuel=20 ]
+
+Step 4: performing A2
+	Next State: [ Pos=7 | Car=QKpt | Driver=UFdfM | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+Step 5: performing A1
+	Sampled move distance=SLIP
+	Next State: [ Pos=7 | Car=QKpt | Driver=UFdfM | Tire=ALL_TERRAIN | Pressure=100% | Fuel=46 ]
+
+Step 11: performing A1
+	Sampled move distance=-1
+	Next State: [ Pos=6 | Car=QKpt | Driver=UFdfM | Tire=ALL_TERRAIN | Pressure=100% | Fuel=42 ]
+
+Step 12: performing A3
+	Next State: [ Pos=6 | Car=QKpt | Driver=MOu | Tire=ALL_TERRAIN | Pressure=100% | Fuel=42 ]
+
+Step 13: performing A1
+	Sampled move distance=3
+	Next State: [ Pos=9 | Car=QKpt | Driver=MOu | Tire=ALL_TERRAIN | Pressure=100% | Fuel=41 ]
+
+Step 14: performing A1
+	Sampled move distance=3
+	Next State: [ Pos=12 | Car=QKpt | Driver=MOu | Tire=ALL_TERRAIN | Pressure=100% | Fuel=39 ]
+
+Step 15: performing A1
+	Sampled move distance=2
+	Next State: [ Pos=14 | Car=QKpt | Driver=MOu | Tire=ALL_TERRAIN | Pressure=100% | Fuel=38 ]
+
+Step 16: performing A1
+	Sampled move distance=BREAKDOWN
+	Next State: [ Pos=14 | Car=QKpt | Driver=MOu | Tire=ALL_TERRAIN | Pressure=100% | Fuel=36 ]
+
+Step 19: performing A1
+	Sampled move distance=3
+	Next State: [ Pos=17 | Car=QKpt | Driver=MOu | Tire=ALL_TERRAIN | Pressure=100% | Fuel=34 ]
+
+Step 20: performing A1
+	Sampled move distance=4
+	Next State: [ Pos=21 | Car=QKpt | Driver=MOu | Tire=ALL_TERRAIN | Pressure=100% | Fuel=33 ]
+
+Step 21: performing A1
+	Sampled move distance=3
+	Next State: [ Pos=24 | Car=QKpt | Driver=MOu | Tire=ALL_TERRAIN | Pressure=100% | Fuel=31 ]
+
+Step 22: performing A1
+	Sampled move distance=-4
+	Next State: [ Pos=20 | Car=QKpt | Driver=MOu | Tire=ALL_TERRAIN | Pressure=100% | Fuel=23 ]
+
+Step 23: performing A1
+	Sampled move distance=4
+	Next State: [ Pos=24 | Car=QKpt | Driver=MOu | Tire=ALL_TERRAIN | Pressure=100% | Fuel=14 ]
+
+Step 24: performing A1
+	Sampled move distance=-4
+	Next State: [ Pos=20 | Car=QKpt | Driver=MOu | Tire=ALL_TERRAIN | Pressure=100% | Fuel=6 ]
+
+Step 25: performing A2
+	Next State: [ Pos=20 | Car=kHH | Driver=MOu | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+Step 26: performing A1
+	Sampled move distance=3
+	Next State: [ Pos=23 | Car=kHH | Driver=MOu | Tire=ALL_TERRAIN | Pressure=100% | Fuel=41 ]
+
+Step 27: performing A1
+	Sampled move distance=3
+	Next State: [ Pos=26 | Car=kHH | Driver=MOu | Tire=ALL_TERRAIN | Pressure=100% | Fuel=40 ]
+
+Goal reached after 28 steps.
+Writing steps to output file

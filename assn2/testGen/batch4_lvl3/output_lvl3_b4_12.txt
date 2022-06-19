@@ -1,0 +1,10 @@
+start;(1,0,0,za,Us,all-terrain,50,100%,);(n.a.)
+0;(1,0,0,za,AEhoa,all-terrain,50,100%,);(A3:AEhoa)
+1;(1,0,0,za,AEhoa,mud,50,100%,);(A4:mud)
+2;(1,0,0,iS,AEhoa,mud,50,100%,);(A2:iS)
+3;(1,0,0,iS,AEhoa,mud,44,100%,);(A1)
+4;(3,0,0,iS,AEhoa,mud,38,100%,);(A1)
+5;(8,0,0,iS,AEhoa,mud,34,100%,);(A1)
+6;(13,0,0,iS,AEhoa,mud,26,100%,);(A1)
+7;(15,0,0,iS,AEhoa,mud,23,100%,);(A1)
+Goal reached, you bloody ripper!

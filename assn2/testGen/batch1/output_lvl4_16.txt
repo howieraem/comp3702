@@ -1,0 +1,6 @@
+start;(1,0,0,DZQho,zGVt,all-terrain,50,100%,);(n.a.)
+0;(1,0,0,TvQ,VB,all-terrain,50,100%,);(A7:TvQ:VB)
+1;(1,0,0,ksDS,VB,all-terrain,50,100%,);(A2:ksDS)
+2;(6,0,0,ksDS,VB,all-terrain,41,100%,);(A1)
+3;(11,0,0,ksDS,VB,all-terrain,35,100%,);(A1)
+Goal reached, you bloody ripper!

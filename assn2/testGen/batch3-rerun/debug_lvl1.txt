@@ -1,0 +1,198 @@
+Resetting simulator
+Start State: [ Pos=1 | Car=mazda | Driver=stig | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+A4:mud: 4562 4.300551436424813
+A2:toyota: 3922 4.289181255134569
+A3:schumacher: 2085 4.234417989562244
+A4:low-profile: 4750 4.30273159915434
+A1: 21830 4.3785125980919855
+A4:performance: 2021 4.231315389733911
+39170
+A1
+Step 0: performing A1
+	Sampled move distance=-3
+	Next State: [ Pos=1 | Car=mazda | Driver=stig | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+A2:toyota: 6136 4.060993333965693
+A4:mud: 6513 4.064892864362707
+A1: 28192 4.136743246242362
+A3:schumacher: 5412 4.05317182536909
+A4:performance: 4719 4.044568437217074
+A4:low-profile: 4402 4.039856328307001
+55374
+A1
+Step 1: performing A1
+	Sampled move distance=SLIP
+	Next State: [ Pos=1 | Car=mazda | Driver=stig | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+A1: 29841 3.556061033811403
+A3:schumacher: 9273 3.5001973634853973
+A4:mud: 7035 3.4859894849479813
+A4:low-profile: 7116 3.486543653793692
+A2:toyota: 6039 3.4771082781722122
+A4:performance: 4752 3.4613556669664916
+64056
+A1
+Step 4: performing A1
+	Sampled move distance=-3
+	Next State: [ Pos=1 | Car=mazda | Driver=stig | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+A4:performance: 6742 3.304193684277405
+A1: 39272 3.3715019721058135
+A4:mud: 5410 3.290635250098779
+A2:toyota: 5638 3.2947481454431156
+A4:low-profile: 4597 3.2796641970050233
+A3:schumacher: 5799 3.2948574618969775
+67458
+A1
+Step 5: performing A1
+	Sampled move distance=-1
+	Next State: [ Pos=1 | Car=mazda | Driver=stig | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+A4:performance: 6909 3.1047723469446153
+A1: 37030 3.173333117142523
+A4:low-profile: 6072 3.0973976418357454
+A2:toyota: 8390 3.1154169825379014
+A4:mud: 7761 3.1113690292915637
+A3:schumacher: 8215 3.11433589094402
+74377
+A1
+Step 6: performing A1
+	Sampled move distance=-2
+	Next State: [ Pos=1 | Car=mazda | Driver=stig | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+A1: 36826 3.0216015051314553
+A4:low-profile: 4194 2.9246498536163092
+A3:schumacher: 7547 2.969252717220592
+A4:mud: 8795 2.9697695446509016
+A4:performance: 7809 2.9638535515285813
+A2:toyota: 5764 2.9462274296447912
+70935
+A1
+Step 7: performing A1
+	Sampled move distance=5
+	Next State: [ Pos=6 | Car=mazda | Driver=stig | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+A1: 76951 6.3867003771096025
+A4:mud: 22 4.221623772772276
+A2:toyota: 52 4.880891699505694
+A3:schumacher: 12 3.3912709993736994
+A4:performance: 20 4.046523595552945
+A4:low-profile: 70 5.036950499562479
+77127
+A1
+Step 8: performing A1
+	Sampled move distance=-2
+	Next State: [ Pos=4 | Car=mazda | Driver=stig | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+A4:performance: 3872 2.7688337662900135
+A2:toyota: 2844 2.743623814666172
+A1: 44826 2.876447499270004
+A4:mud: 6193 2.800541756562225
+A4:low-profile: 4252 2.77581249217096
+A3:schumacher: 4231 2.775251570848579
+66218
+A1
+Step 9: performing A1
+	Sampled move distance=SLIP
+	Next State: [ Pos=4 | Car=mazda | Driver=stig | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+A2:toyota: 7652 2.163969145341637
+A3:schumacher: 4892 2.1365493902226635
+A1: 63156 2.235411621324676
+A4:mud: 6520 2.1549475331864625
+A4:low-profile: 6174 2.1517621067987056
+A4:performance: 4297 2.1285091605456268
+92691
+A1
+Step 12: performing A1
+	Sampled move distance=BREAKDOWN
+	Next State: [ Pos=4 | Car=mazda | Driver=stig | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+A3:schumacher: 11159 1.519399665629636
+A4:mud: 8583 1.5065534465343111
+A2:toyota: 11768 1.521786820708553
+A4:low-profile: 12557 1.5245649684434175
+A1: 63685 1.572572165351726
+A4:performance: 11217 1.5235661345865776
+118969
+A1
+Step 15: performing A1
+	Sampled move distance=SLIP
+	Next State: [ Pos=4 | Car=mazda | Driver=stig | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+A2:toyota: 14431 0.941370034915919
+A4:mud: 18726 0.9513208491303944
+A4:performance: 16218 0.9459862922173689
+A3:schumacher: 18529 0.9509347185683252
+A4:low-profile: 14642 0.942702477009304
+A1: 71414 0.9861586637824648
+153960
+A1
+Step 18: performing A1
+	Sampled move distance=5
+	Next State: [ Pos=9 | Car=mazda | Driver=stig | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+A4:low-profile: 51 1.7095933438823376
+A4:performance: 21 0.883046673445767
+A1: 421381 3.159933534717415
+A3:schumacher: 81 1.9670468207230218
+A2:toyota: 33 1.3916310535527143
+A4:mud: 416 2.4583228996972384
+421983
+A1
+Step 19: performing A1
+	Sampled move distance=SLIP
+	Next State: [ Pos=9 | Car=mazda | Driver=stig | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+A1: 1715772 2.0783179722252076
+A2:toyota: 67 0.754986501282649
+A4:mud: 135 1.0717389015817897
+A4:low-profile: 71 0.7942693056778166
+A3:schumacher: 42 0.42389643543320094
+A4:performance: 64 0.7273688576877172
+1716151
+A1
+Step 22: performing A1
+	Sampled move distance=SLIP
+	Next State: [ Pos=9 | Car=mazda | Driver=stig | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+A3:schumacher: 114 0.08809490740740737
+A1: 11333025 1.1524925815245917
+A4:performance: 222 0.3384341865302803
+A4:low-profile: 146 0.20746040715372902
+A2:toyota: 468 0.5166615358647915
+A4:mud: 227 0.34684087891581
+11334202
+A1
+Step 25: performing A1
+	Sampled move distance=-1
+	Next State: [ Pos=8 | Car=mazda | Driver=stig | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+A1: 15344207 0.9371088499613459
+A3:schumacher: 214 0.15350006652388348
+A4:performance: 314 0.28514693526627766
+A2:toyota: 293 0.26755850931456193
+A4:mud: 242 0.19851263845844813
+A4:low-profile: 222 0.16614866428928932
+15345492
+A1
+Step 26: performing A1
+	Sampled move distance=SLIP
+	Next State: [ Pos=8 | Car=mazda | Driver=stig | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+A2:toyota: 2488 0.0
+A4:low-profile: 2488 0.0
+A3:schumacher: 2488 0.0
+A1: 41087712 0.23554696839775138
+A4:performance: 2488 0.0
+A4:mud: 2488 0.0
+41100152
+A1
+Step 29: performing A1
+	Sampled move distance=5
+	Next State: [ Pos=10 | Car=mazda | Driver=stig | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+Goal reached after 30 steps.
+Writing steps to output file
+Solved!

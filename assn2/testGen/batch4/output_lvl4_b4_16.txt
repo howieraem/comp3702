@@ -1,0 +1,10 @@
+start;(1,0,0,Osm,M,all-terrain,50,100%,);(n.a.)
+0;(1,0,0,Osm,M,low-profile,50,100%,);(A4:low-profile)
+1;(1,0,0,Osm,M,mud,50,100%,);(A4:mud)
+2;(5,0,0,Osm,M,mud,40,100%,);(A1)
+3;(9,0,0,Osm,M,mud,36,100%,);(A1)
+4;(13,0,0,Osm,M,mud,30,100%,);(A1)
+5;(10,0,0,Osm,M,mud,26,100%,);(A1)
+6;(12,0,0,Osm,M,mud,25,100%,);(A1)
+7;(14,0,0,Osm,M,mud,19,100%,);(A1)
+Goal reached, you bloody ripper!

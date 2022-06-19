@@ -1,0 +1,11 @@
+start;(1,0,0,VelMP,Pr,all-terrain,50,100%,);(n.a.)
+0;(1,0,0,VelMP,Pr,low-profile,50,100%,);(A4:low-profile)
+1;(1,0,0,VelMP,Pr,low-profile,46,100%,);(A1)
+2;(1,1,0,VelMP,Pr,low-profile,42,100%,);(A1)
+4;(1,1,0,VelMP,Pr,low-profile,38,100%,);(A1)
+6;(3,0,0,VelMP,Pr,low-profile,34,100%,);(A1)
+7;(8,0,0,VelMP,Pr,low-profile,29,100%,);(A1)
+8;(13,0,0,VelMP,Pr,low-profile,25,100%,);(A1)
+9;(18,0,0,VelMP,Pr,low-profile,23,100%,);(A1)
+10;(22,0,0,VelMP,Pr,low-profile,15,100%,);(A1)
+Goal reached, you bloody ripper!

@@ -1,0 +1,12 @@
+start;(1,0,0,uiZz,YV,all-terrain,50,100%,);(n.a.)
+0;(2,0,0,uiZz,YV,all-terrain,44,100%,);(A1)
+1;(7,0,0,uiZz,YV,all-terrain,40,100%,);(A1)
+2;(12,0,0,uiZz,YV,all-terrain,32,100%,);(A1)
+3;(13,0,0,uiZz,YV,all-terrain,24,100%,);(A1)
+4;(18,0,0,uiZz,YV,all-terrain,20,100%,);(A1)
+5;(23,0,0,uiZz,YV,all-terrain,15,100%,);(A1)
+6;(23,0,0,uiZz,YV,all-terrain,7,100%,);(A1)
+7;(23,0,0,Eo,YV,all-terrain,50,100%,);(A2:Eo)
+8;(28,0,0,Eo,YV,all-terrain,44,100%,);(A1)
+9;(29,0,0,Eo,YV,all-terrain,38,100%,);(A1)
+Goal reached, you bloody ripper!

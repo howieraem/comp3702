@@ -1,0 +1,11 @@
+start;(1,0,0,jru,TMfk,all-terrain,50,100%,);(n.a.)
+0;(1,0,0,jru,TMfk,performance,50,100%,);(A4:performance)
+1;(6,0,0,jru,TMfk,performance,40,100%,);(A1)
+2;(6,0,1,jru,TMfk,performance,30,100%,);(A1)
+7;(11,0,0,jru,TMfk,performance,20,100%,);(A1)
+8;(16,0,0,jru,TMfk,performance,15,100%,);(A1)
+9;(21,0,0,jru,TMfk,performance,10,100%,);(A1)
+10;(26,0,0,jru,TMfk,performance,0,100%,);(A1)
+11;(26,0,0,OgMk,TMfk,performance,50,100%,);(A2:OgMk)
+12;(30,0,0,OgMk,TMfk,performance,42,100%,);(A1)
+Goal reached, you bloody ripper!

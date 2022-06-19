@@ -1,0 +1,10 @@
+start;(1,0,0,haX,uWqt,all-terrain,50,100%,);(n.a.)
+0;(5,0,0,haX,uWqt,all-terrain,41,100%,);(A1)
+1;(6,0,0,haX,uWqt,all-terrain,32,100%,);(A1)
+2;(6,0,0,haX,uWqt,low-profile,32,100%,);(A4:low-profile)
+3;(6,0,0,haX,x,low-profile,32,100%,);(A3:x)
+4;(11,0,0,haX,x,low-profile,29,100%,);(A1)
+5;(11,0,0,haX,x,low-profile,29,50%,);(A6:50%)
+6;(16,0,0,haX,x,low-profile,20,50%,);(A1)
+7;(20,0,0,haX,x,low-profile,11,50%,);(A1)
+Goal reached, you bloody ripper!

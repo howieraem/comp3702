@@ -1,0 +1,21 @@
+java ai.AI input_lv4_b2_01.txt output_lv4_b2_01.txt >> debug_lv4_b2_01.txt
+java ai.AI input_lv4_b2_02.txt output_lv4_b2_02.txt >> debug_lv4_b2_02.txt
+java ai.AI input_lv4_b2_03.txt output_lv4_b2_03.txt >> debug_lv4_b2_03.txt
+java ai.AI input_lv4_b2_04.txt output_lv4_b2_04.txt >> debug_lv4_b2_04.txt
+java ai.AI input_lv4_b2_05.txt output_lv4_b2_05.txt >> debug_lv4_b2_05.txt
+java ai.AI input_lv4_b2_06.txt output_lv4_b2_06.txt >> debug_lv4_b2_06.txt
+java ai.AI input_lv4_b2_07.txt output_lv4_b2_07.txt >> debug_lv4_b2_07.txt
+java ai.AI input_lv4_b2_08.txt output_lv4_b2_08.txt >> debug_lv4_b2_08.txt
+java ai.AI input_lv4_b2_09.txt output_lv4_b2_09.txt >> debug_lv4_b2_09.txt
+java ai.AI input_lv4_b2_10.txt output_lv4_b2_10.txt >> debug_lv4_b2_10.txt
+java ai.AI input_lv4_b2_11.txt output_lv4_b2_11.txt >> debug_lv4_b2_11.txt
+java ai.AI input_lv4_b2_12.txt output_lv4_b2_12.txt >> debug_lv4_b2_12.txt
+java ai.AI input_lv4_b2_13.txt output_lv4_b2_13.txt >> debug_lv4_b2_13.txt
+java ai.AI input_lv4_b2_14.txt output_lv4_b2_14.txt >> debug_lv4_b2_14.txt
+java ai.AI input_lv4_b2_15.txt output_lv4_b2_15.txt >> debug_lv4_b2_15.txt
+java ai.AI input_lv4_b2_16.txt output_lv4_b2_16.txt >> debug_lv4_b2_16.txt
+java ai.AI input_lv4_b2_17.txt output_lv4_b2_17.txt >> debug_lv4_b2_17.txt
+java ai.AI input_lv4_b2_18.txt output_lv4_b2_18.txt >> debug_lv4_b2_18.txt
+java ai.AI input_lv4_b2_19.txt output_lv4_b2_19.txt >> debug_lv4_b2_19.txt
+java ai.AI input_lv4_b2_20.txt output_lv4_b2_20.txt >> debug_lv4_b2_20.txt
+pause

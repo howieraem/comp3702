@@ -1,0 +1,12 @@
+start;(1,0,0,pkNUC,tZvlm,all-terrain,50,100%,);(n.a.)
+0;(1,0,0,y,tZvlm,all-terrain,50,100%,);(A2:y)
+1;(1,0,0,y,tZvlm,performance,50,100%,);(A4:performance)
+2;(1,0,0,y,tZvlm,performance,50,50%,);(A6:50%)
+3;(5,0,0,y,tZvlm,performance,38,50%,);(A1)
+4;(9,0,0,y,tZvlm,performance,8,50%,);(A1)
+5;(13,0,0,y,tZvlm,performance,2,50%,);(A1)
+6;(13,0,0,efu,tZvlm,performance,50,100%,);(A2:efu)
+7;(13,0,0,efu,tZvlm,performance,50,50%,);(A6:50%)
+8;(17,0,0,efu,tZvlm,performance,47,50%,);(A1)
+9;(20,0,0,efu,tZvlm,performance,20,50%,);(A1)
+Goal reached, you bloody ripper!

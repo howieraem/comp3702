@@ -1,0 +1,8 @@
+start;(1,0,0,SsKqw,sp,all-terrain,50,100%,);(n.a.)
+0;(1,0,0,p,sp,all-terrain,50,100%,);(A2:p)
+1;(1,0,0,p,sp,all-terrain,50,50%,);(A6:50%)
+2;(4,0,0,p,sp,all-terrain,29,50%,);(A1)
+3;(8,0,0,p,sp,all-terrain,14,50%,);(A1)
+4;(8,0,0,p,sp,low-profile,14,100%,);(A4:low-profile)
+5;(12,0,0,p,sp,low-profile,6,100%,);(A1)
+Goal reached, you bloody ripper!

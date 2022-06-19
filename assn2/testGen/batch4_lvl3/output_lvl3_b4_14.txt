@@ -1,0 +1,13 @@
+start;(1,0,0,yXQX,iLhW,all-terrain,50,100%,);(n.a.)
+0;(1,0,0,RiJQ,iLhW,all-terrain,50,100%,);(A2:RiJQ)
+1;(1,0,0,RiJQ,iLhW,low-profile,50,100%,);(A4:low-profile)
+2;(1,0,0,RiJQ,iLhW,low-profile,40,100%,);(A1)
+3;(5,0,0,RiJQ,iLhW,low-profile,30,100%,);(A1)
+4;(9,0,0,RiJQ,iLhW,low-profile,22,100%,);(A1)
+5;(9,0,0,RiJQ,iLhW,low-profile,22,50%,);(A6:50%)
+6;(7,0,0,RiJQ,iLhW,low-profile,10,50%,);(A1)
+7;(11,0,0,RiJQ,iLhW,low-profile,1,50%,);(A1)
+8;(11,0,0,AAw,iLhW,low-profile,50,100%,);(A2:AAw)
+9;(15,0,0,AAw,iLhW,low-profile,44,100%,);(A1)
+10;(18,0,0,AAw,iLhW,low-profile,39,100%,);(A1)
+Goal reached, you bloody ripper!

@@ -1,0 +1,8 @@
+start;(1,0,0,SsKqw,sp,all-terrain,50,100%,);(n.a.)
+0;(1,1,0,SsKqw,sp,all-terrain,43,100%,);(A1)
+7;(1,1,0,SsKqw,sp,all-terrain,36,100%,);(A1)
+14;(1,1,0,SsKqw,sp,all-terrain,29,100%,);(A1)
+21;(1,1,0,SsKqw,sp,all-terrain,22,100%,);(A1)
+28;(1,1,0,SsKqw,sp,all-terrain,15,100%,);(A1)
+35;(1,1,0,SsKqw,sp,all-terrain,8,100%,);(A1)
+Computer says no. Max steps reached: max steps = 36

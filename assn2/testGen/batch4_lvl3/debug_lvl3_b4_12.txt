@@ -1,0 +1,80 @@
+Resetting simulator
+Start State: [ Pos=1 | Car=za | Driver=Us | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+0.7010000000000001
+0.4914010000000002
+0.34447210100000003
+0.24147494280100013
+0.16927393490350084
+0.11866102836735415
+0.0831813808855153
+0.058310148000745965
+0.04087541374852277
+0.028653665037714493
+0.020086219191437937
+0.014080439653198162
+0.009870388196891788
+0.006919142126021072
+0.004850318630341022
+0.003400073359868916
+0.0023834514252683014
+0.0016707994491129696
+0.0011712304138282725
+8.210325200934676E-4
+5.755437965855315E-4
+4.034562014063603E-4
+2.8282279718583325E-4
+1.9825878082757598E-4
+1.3897940536011788E-4
+9.742456315731118E-5
+6.82946187731126E-5
+4.787452775989465E-5
+3.3560043959823815E-5
+2.3525590815864916E-5
+1.6491439161825383E-5
+1.1560498852425383E-5
+8.103909695744704E-6
+5.680840696520306E-6
+3.982269328517418E-6
+2.791570798965637E-6
+1.9568911304723713E-6
+1.371780682379864E-6
+9.61618258354946E-7
+6.74094398966929E-7
+4.725401736571655E-7
+3.3125066156713956E-7
+2.3220671385715264E-7
+1.6277690662036548E-7
+1.1410661127086996E-7
+7.998873474690527E-8
+Step 0: performing A3
+	Next State: [ Pos=1 | Car=za | Driver=AEhoa | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+Step 1: performing A4
+	Next State: [ Pos=1 | Car=za | Driver=AEhoa | Tire=MUD | Pressure=100% | Fuel=50 ]
+
+Step 2: performing A2
+	Next State: [ Pos=1 | Car=iS | Driver=AEhoa | Tire=MUD | Pressure=100% | Fuel=50 ]
+
+Step 3: performing A1
+	Sampled move distance=-4
+	Next State: [ Pos=1 | Car=iS | Driver=AEhoa | Tire=MUD | Pressure=100% | Fuel=44 ]
+
+Step 4: performing A1
+	Sampled move distance=2
+	Next State: [ Pos=3 | Car=iS | Driver=AEhoa | Tire=MUD | Pressure=100% | Fuel=38 ]
+
+Step 5: performing A1
+	Sampled move distance=5
+	Next State: [ Pos=8 | Car=iS | Driver=AEhoa | Tire=MUD | Pressure=100% | Fuel=34 ]
+
+Step 6: performing A1
+	Sampled move distance=5
+	Next State: [ Pos=13 | Car=iS | Driver=AEhoa | Tire=MUD | Pressure=100% | Fuel=26 ]
+
+Step 7: performing A1
+	Sampled move distance=5
+	Next State: [ Pos=15 | Car=iS | Driver=AEhoa | Tire=MUD | Pressure=100% | Fuel=23 ]
+
+Goal reached after 8 steps.
+Writing steps to output file

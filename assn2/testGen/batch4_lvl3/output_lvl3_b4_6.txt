@@ -1,0 +1,10 @@
+start;(1,0,0,NDQz,tcVW,all-terrain,50,100%,);(n.a.)
+0;(1,0,0,NDQz,AcuS,all-terrain,50,100%,);(A3:AcuS)
+1;(1,0,0,NDQz,AcuS,mud,50,100%,);(A4:mud)
+2;(1,0,0,NDQz,AcuS,mud,43,100%,);(A1)
+3;(6,0,0,NDQz,AcuS,mud,36,100%,);(A1)
+4;(8,0,0,NDQz,AcuS,mud,31,100%,);(A1)
+5;(13,0,0,NDQz,AcuS,mud,24,100%,);(A1)
+6;(13,0,1,NDQz,AcuS,mud,22,100%,);(A1)
+13;(18,0,0,NDQz,AcuS,mud,20,100%,);(A1)
+Goal reached, you bloody ripper!

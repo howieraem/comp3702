@@ -1,0 +1,76 @@
+Resetting simulator
+Start State: [ Pos=1 | Car=NDQz | Driver=tcVW | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+0.673
+0.45292900000000014
+0.30482121699999976
+0.2051446790410001
+0.1380623689945928
+0.09291597433336118
+0.06253245072635227
+0.042084339338835264
+0.028322760375036005
+0.019061217732398994
+0.012828199533904794
+0.008633378286317939
+0.0058102635866918995
+0.003910307393843571
+0.002631636876056831
+0.0017710916175861513
+0.0011919446586352578
+8.021787552618953E-4
+5.39866302291081E-4
+3.6333002144184334E-4
+2.4452110443018427E-4
+1.6456270328157885E-4
+1.1075069930877035E-4
+7.453522063460838E-5
+5.016220348696976E-5
+3.375916294690029E-5
+2.2719916663138662E-5
+1.529050391457787E-5
+1.029050913414764E-5
+6.925512647359966E-6
+4.660870011718998E-6
+3.13676551799702E-6
+2.1110431935866814E-6
+1.4207320693238046E-6
+9.56152682807243E-7
+6.434907553476421E-7
+4.3306927821618046E-7
+2.9145562452370655E-7
+1.9614963520098172E-7
+1.32008704412101E-7
+8.884185831448121E-8
+Step 0: performing A3
+	Next State: [ Pos=1 | Car=NDQz | Driver=AcuS | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+Step 1: performing A4
+	Next State: [ Pos=1 | Car=NDQz | Driver=AcuS | Tire=MUD | Pressure=100% | Fuel=50 ]
+
+Step 2: performing A1
+	Sampled move distance=-1
+	Next State: [ Pos=1 | Car=NDQz | Driver=AcuS | Tire=MUD | Pressure=100% | Fuel=43 ]
+
+Step 3: performing A1
+	Sampled move distance=5
+	Next State: [ Pos=6 | Car=NDQz | Driver=AcuS | Tire=MUD | Pressure=100% | Fuel=36 ]
+
+Step 4: performing A1
+	Sampled move distance=2
+	Next State: [ Pos=8 | Car=NDQz | Driver=AcuS | Tire=MUD | Pressure=100% | Fuel=31 ]
+
+Step 5: performing A1
+	Sampled move distance=5
+	Next State: [ Pos=13 | Car=NDQz | Driver=AcuS | Tire=MUD | Pressure=100% | Fuel=24 ]
+
+Step 6: performing A1
+	Sampled move distance=BREAKDOWN
+	Next State: [ Pos=13 | Car=NDQz | Driver=AcuS | Tire=MUD | Pressure=100% | Fuel=22 ]
+
+Step 13: performing A1
+	Sampled move distance=5
+	Next State: [ Pos=18 | Car=NDQz | Driver=AcuS | Tire=MUD | Pressure=100% | Fuel=20 ]
+
+Goal reached after 14 steps.
+Writing steps to output file

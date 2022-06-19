@@ -1,0 +1,17 @@
+<project name="wls_assignment2" basedir="." default="main">
+
+	<property name="src.dir"		value="src"/>
+    <property name="classes.dir"	value="classes"/>
+
+	<target name="clean">
+        <delete dir="${classes.dir}"/>
+    </target>
+
+    <target name="compile">
+        <mkdir dir="${classes.dir}"/>
+        <javac srcdir="${src.dir}" destdir="${classes.dir}" includeantruntime="false" debug="on"/>
+    </target>
+	
+    <target name="main" depends="clean,compile"/>
+
+</project>

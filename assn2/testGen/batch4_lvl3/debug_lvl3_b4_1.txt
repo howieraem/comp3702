@@ -1,0 +1,67 @@
+Resetting simulator
+Start State: [ Pos=1 | Car=pXLyE | Driver=nf | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+0.6019999999999999
+0.36240400000000017
+0.21816720799999967
+0.13133665921600013
+0.07906466884803187
+0.04759693064651538
+0.02865335224920207
+0.01724931805402008
+0.010384089468519875
+0.0062512218600487834
+0.003763235559749223
+0.0022654678069695677
+0.0013638116197953742
+8.210145951168535E-4
+4.942507862604195E-4
+2.9753897332840396E-4
+1.791184619439612E-4
+1.078293140905906E-4
+6.491324708246538E-5
+3.90777747432125E-5
+2.3524820395692814E-5
+1.4161941877866013E-5
+8.52548901075778E-6
+5.132344384151111E-6
+3.089671319678189E-6
+1.8599821345333112E-6
+1.1197092448789192E-6
+6.740649651781894E-7
+4.057871092477683E-7
+2.4428383982311175E-7
+1.4705887174670806E-7
+8.852944066717328E-8
+Step 0: performing A4
+	Next State: [ Pos=1 | Car=pXLyE | Driver=nf | Tire=MUD | Pressure=100% | Fuel=50 ]
+
+Step 1: performing A2
+	Next State: [ Pos=1 | Car=EoNq | Driver=nf | Tire=MUD | Pressure=100% | Fuel=50 ]
+
+Step 2: performing A1
+	Sampled move distance=-4
+	Next State: [ Pos=1 | Car=EoNq | Driver=nf | Tire=MUD | Pressure=100% | Fuel=43 ]
+
+Step 3: performing A1
+	Sampled move distance=2
+	Next State: [ Pos=3 | Car=EoNq | Driver=nf | Tire=MUD | Pressure=100% | Fuel=36 ]
+
+Step 4: performing A1
+	Sampled move distance=SLIP
+	Next State: [ Pos=3 | Car=EoNq | Driver=nf | Tire=MUD | Pressure=100% | Fuel=33 ]
+
+Step 7: performing A1
+	Sampled move distance=5
+	Next State: [ Pos=8 | Car=EoNq | Driver=nf | Tire=MUD | Pressure=100% | Fuel=30 ]
+
+Step 8: performing A1
+	Sampled move distance=-1
+	Next State: [ Pos=7 | Car=EoNq | Driver=nf | Tire=MUD | Pressure=100% | Fuel=27 ]
+
+Step 9: performing A1
+	Sampled move distance=5
+	Next State: [ Pos=11 | Car=EoNq | Driver=nf | Tire=MUD | Pressure=100% | Fuel=24 ]
+
+Goal reached after 10 steps.
+Writing steps to output file

@@ -1,0 +1,9 @@
+start;(1,0,0,iwQsC,iXmH,all-terrain,50,100%,);(n.a.)
+0;(1,0,0,TUNd,TM,all-terrain,50,100%,);(A7:TUNd:TM)
+1;(6,0,0,TUNd,TM,all-terrain,41,100%,);(A1)
+2;(10,0,0,TUNd,TM,all-terrain,32,100%,);(A1)
+4;(10,0,0,TUNd,TM,all-terrain,50,100%,);(A5:18)
+5;(15,0,0,TUNd,TM,all-terrain,42,100%,);(A1)
+6;(20,0,0,TUNd,TM,all-terrain,33,100%,);(A1)
+7;(24,0,0,TUNd,TM,all-terrain,24,100%,);(A1)
+Goal reached, you bloody ripper!

@@ -1,0 +1,193 @@
+Resetting simulator
+Start State: [ Pos=1 | Car=mazda | Driver=stig | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+A6:50%: 28 8.33305136107231
+A2:toyota: 16875 9.98418367051294
+A1: 27 8.177356705498434
+A4:mud: 2 3.6021536978664184
+A2:ferarri: 15 7.455097946044803
+A4:low-profile: 19 7.779240007193987
+A4:performance: 5036 9.926220306766163
+A3:schumacher: 6526 9.969751961144855
+A6:75%: 1 0.0
+28529
+A2:toyota
+Step 0: performing A2
+	Next State: [ Pos=1 | Car=toyota | Driver=stig | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+A4:low-profile: 2110 10.279873780980164
+A4:performance: 11163 10.394247165931697
+A2:mazda: 69 9.3372795979146
+A3:schumacher: 23566 10.428162085654414
+A6:75%: 627 10.11122002160642
+A4:mud: 876 10.165269722924021
+A1: 10748 10.392547674660186
+A6:50%: 1214 10.213802908177813
+A2:ferarri: 2 2.9123677081987616
+50375
+A3:schumacher
+Step 1: performing A3
+	Next State: [ Pos=1 | Car=toyota | Driver=schumacher | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+A4:mud: 1043 10.64452372609767
+A4:performance: 2856 10.758968087070745
+A1: 55445 10.898382671730689
+A6:75%: 1639 10.700591247027598
+A2:mazda: 25 8.880107912651292
+A4:low-profile: 1171 10.661711133501722
+A6:50%: 1 0.6302494097246091
+A3:stig: 65 9.672454135081436
+A2:ferarri: 215 10.281737928102787
+62460
+A1
+Step 2: performing A1
+	Sampled move distance=3
+	Next State: [ Pos=4 | Car=toyota | Driver=schumacher | Tire=ALL_TERRAIN | Pressure=100% | Fuel=49 ]
+
+A5:1: 135 11.406355820348026
+A1: 46476 12.241280705323774
+A3:stig: 190 11.519043551291903
+A4:low-profile: 237 11.580110966261998
+A2:ferarri: 3 6.230673456702768
+A4:mud: 429 11.750599223002872
+A4:performance: 560 11.803259999832317
+A6:50%: 176 11.506368057001183
+A6:75%: 1 0.0
+A2:mazda: 20 9.799353055632205
+48227
+A1
+Step 3: performing A1
+	Sampled move distance=0
+	Next State: [ Pos=4 | Car=toyota | Driver=schumacher | Tire=ALL_TERRAIN | Pressure=100% | Fuel=47 ]
+
+A2:mazda: 37 9.810740019208314
+A5:3: 754 11.068731510849016
+A4:mud: 435 10.967508201165359
+A4:performance: 678 11.05155839218919
+A3:stig: 4 6.708688045954587
+A6:50%: 73 10.410734494396069
+A1: 46599 11.642330426198425
+A6:75%: 337 10.919581144209516
+A2:ferarri: 17 9.37064559816166
+A4:low-profile: 3 5.944827646976065
+48937
+A1
+Step 4: performing A1
+	Sampled move distance=-4
+	Next State: [ Pos=1 | Car=toyota | Driver=schumacher | Tire=ALL_TERRAIN | Pressure=100% | Fuel=45 ]
+
+A2:mazda: 16 7.081327727095888
+A2:ferarri: 32 7.5136568970239095
+A6:50%: 2770 9.2447765994126
+A5:5: 2104 9.21824418758619
+A4:mud: 2105 9.218220983565336
+A6:75%: 1673 9.191633166005342
+A3:stig: 1083 9.138009127715282
+A4:low-profile: 1963 9.210251979420049
+A4:performance: 9703 9.327532927092623
+A1: 29668 9.368262348144011
+51117
+A1
+Step 5: performing A1
+	Sampled move distance=-4
+	Next State: [ Pos=1 | Car=toyota | Driver=schumacher | Tire=ALL_TERRAIN | Pressure=100% | Fuel=44 ]
+
+A4:low-profile: 1962 8.841594227234772
+A4:performance: 6607 8.93963616071465
+A4:mud: 1577 8.818024440833682
+A6:50%: 2834 8.87778370292421
+A6:75%: 2901 8.88018533968631
+A1: 37320 9.015491022068312
+A3:stig: 662 8.689608335934826
+A2:ferarri: 33 7.325063955334214
+A2:mazda: 28 7.257806547205425
+A5:6: 2459 8.863213519651092
+56383
+A1
+Step 6: performing A1
+	Sampled move distance=-1
+	Next State: [ Pos=1 | Car=toyota | Driver=schumacher | Tire=ALL_TERRAIN | Pressure=100% | Fuel=43 ]
+
+A5:7: 1232 8.386365766187907
+A1: 44662 8.61123684180827
+A2:ferarri: 5 4.099347398867424
+A6:75%: 1640 8.4229531523448
+A4:low-profile: 2655 8.47245634786363
+A4:performance: 8675 8.584063886177004
+A6:50%: 2440 8.464138599518863
+A3:stig: 631 8.280501097823405
+A2:mazda: 193 7.9673604093793156
+A4:mud: 3084 8.484304555654326
+65217
+A1
+Step 7: performing A1
+	Sampled move distance=0
+	Next State: [ Pos=1 | Car=toyota | Driver=schumacher | Tire=ALL_TERRAIN | Pressure=100% | Fuel=42 ]
+
+A2:ferarri: 494 7.683822098449702
+A4:low-profile: 2 0.9951306469335934
+A6:75%: 2265 7.915606584197531
+A2:mazda: 28 6.293001321241389
+A3:stig: 233 7.485187115594244
+A6:50%: 2071 7.905390139712451
+A1: 54868 8.076746511114195
+A4:mud: 2204 7.91195463068443
+A4:performance: 7625 8.007281893388557
+A5:8: 1683 7.880659248192281
+71473
+A1
+Step 8: performing A1
+	Sampled move distance=5
+	Next State: [ Pos=6 | Car=toyota | Driver=schumacher | Tire=ALL_TERRAIN | Pressure=100% | Fuel=41 ]
+
+A3:stig: 37 10.184491249384104
+A5:9: 35 10.187474858323178
+A6:75%: 30 10.081691357093598
+A4:performance: 65 10.530517370461043
+A6:50%: 58 10.490365328000241
+A2:mazda: 2 3.8165444911871402
+A1: 71497 11.77774673868136
+A2:ferarri: 1 0.0
+A4:mud: 18 9.386032341917426
+A4:low-profile: 67 10.573679581698094
+71810
+A1
+Step 9: performing A1
+	Sampled move distance=-2
+	Next State: [ Pos=4 | Car=toyota | Driver=schumacher | Tire=ALL_TERRAIN | Pressure=100% | Fuel=40 ]
+
+A2:mazda: 49 7.257748114478766
+A4:low-profile: 294 8.106422022170989
+A3:stig: 137 7.840599750879934
+A4:mud: 87 7.557186184931965
+A1: 60526 8.618875870629447
+A6:50%: 256 8.05523979731664
+A4:performance: 930 8.346935939004263
+A5:10: 342 8.135598147656536
+A2:ferarri: 211 8.001914740906223
+A6:75%: 341 8.145126470760342
+63173
+A1
+Step 10: performing A1
+	Sampled move distance=5
+	Next State: [ Pos=9 | Car=toyota | Driver=schumacher | Tire=ALL_TERRAIN | Pressure=100% | Fuel=38 ]
+
+A2:ferarri: 8 9.61338968629913
+A6:50%: 3 5.243722867915662
+A2:mazda: 1 0.0
+A3:stig: 9 9.727815861387846
+A1: 119880 13.296256348494701
+A4:mud: 3 7.318091903948272
+A6:75%: 19 10.982188024668758
+A4:low-profile: 9 9.666953540488583
+A4:performance: 3 7.377870552732484
+A5:12: 12 9.7598203420648
+119947
+A1
+Step 11: performing A1
+	Sampled move distance=5
+	Next State: [ Pos=10 | Car=toyota | Driver=schumacher | Tire=ALL_TERRAIN | Pressure=100% | Fuel=36 ]
+
+Goal reached after 12 steps.
+Writing steps to output file
+Solved!

@@ -1,0 +1,64 @@
+Resetting simulator
+Start State: [ Pos=1 | Car=mazda | Driver=stig | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+A4:mud: 71 9.099041659936319
+A2:toyota: 67308 11.454994010347795
+A3:schumacher: 420 9.73657889457119
+A4:low-profile: 291 9.648689562560374
+A1: 24 8.262740279903104
+A4:performance: 18 8.144042232442215
+68132
+A2:toyota
+Step 0: performing A2
+	Next State: [ Pos=1 | Car=toyota | Driver=stig | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+A4:performance: 557 10.453811130839284
+A3:schumacher: 293 10.314870834521193
+A2:mazda: 12 7.695297508221832
+A4:mud: 360 10.362963693060069
+A4:low-profile: 175063 12.729700252115181
+A1: 496 10.42472535714275
+176781
+A4:low-profile
+Step 1: performing A4
+	Next State: [ Pos=1 | Car=toyota | Driver=stig | Tire=LOW_PROFILE | Pressure=100% | Fuel=50 ]
+
+A3:schumacher: 280 10.955055440483383
+A1: 295984 13.721377002838905
+A4:mud: 38 10.046887242339812
+A2:mazda: 26 9.848232872213787
+A4:performance: 28 9.639739142362927
+A4:all-terrain: 1 0.9376062774496327
+296357
+A1
+Step 2: performing A1
+	Sampled move distance=1
+	Next State: [ Pos=2 | Car=toyota | Driver=stig | Tire=LOW_PROFILE | Pressure=100% | Fuel=50 ]
+
+A2:mazda: 18 9.895287298157264
+A4:mud: 3 6.473132710541353
+A4:performance: 26 10.369776814307253
+A4:all-terrain: 5 7.70502167536593
+A3:schumacher: 9 9.188252919994547
+A1: 200502 14.440030129837211
+200563
+A1
+Step 3: performing A1
+	Sampled move distance=5
+	Next State: [ Pos=7 | Car=toyota | Driver=stig | Tire=LOW_PROFILE | Pressure=100% | Fuel=50 ]
+
+A4:performance: 2 9.861902351562497
+A3:schumacher: 1 7.635299749667512
+A4:mud: 4 10.917939789359165
+A2:mazda: 3 10.698075633541665
+A1: 450664 20.97918074617487
+A4:all-terrain: 1 1.9256633313981173
+450675
+A1
+Step 4: performing A1
+	Sampled move distance=5
+	Next State: [ Pos=10 | Car=toyota | Driver=stig | Tire=LOW_PROFILE | Pressure=100% | Fuel=50 ]
+
+Goal reached after 5 steps.
+Writing steps to output file
+Solved!

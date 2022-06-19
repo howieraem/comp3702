@@ -1,0 +1,9 @@
+java mcts.AI input.txt output.txt > debug.txt
+java mcts.AI input_lvl1.txt output_lvl1.txt > debug_lvl1.txt
+java mcts.AI input_lvl2.txt output_lvl2.txt > debug_lvl2.txt
+java mcts.AI input_lvl3.txt output_lvl3.txt > debug_lvl3.txt
+java mcts.AI input_lvl4.txt output_lvl4.txt > debug_lVl4.txt
+java mcts.AI input1-x.txt output1-x.txt > debug1-x.txt
+java mcts.AI input2-x.txt output2-x.txt > debug2-x.txt
+java mcts.AI input3-x.txt output3-x.txt > debug3-x.txt
+java mcts.AI input4-x.txt output4-x.txt > debug4-x.txt

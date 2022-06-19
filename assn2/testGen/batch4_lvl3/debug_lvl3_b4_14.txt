@@ -1,0 +1,96 @@
+Resetting simulator
+Start State: [ Pos=1 | Car=yXQX | Driver=iLhW | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+0.7250000000000001
+0.5256250000000002
+0.38107812500000016
+0.2762816406249997
+0.20030418945312478
+0.1452205373535156
+0.10528488958129856
+0.07633154494644145
+0.05534037008617032
+0.04012176831247327
+0.029088282026543233
+0.021089004469244
+0.01528952824020191
+0.011084907974146407
+0.008036558281256045
+0.005826504753910555
+0.004224215946585286
+0.003062556561274299
+0.0022203535069236224
+0.001609756292519915
+0.0011670733120769938
+8.461281512555097E-4
+6.134429096604777E-4
+4.447461095038463E-4
+3.224409293900443E-4
+2.3376967380794866E-4
+1.6948301351060735E-4
+1.22875184795479E-4
+8.908450897671116E-5
+6.458626900807118E-5
+4.6825045030729484E-5
+3.394815764723447E-5
+2.4612414294189477E-5
+1.784400036353162E-5
+1.2936900263493811E-5
+9.379252690955298E-6
+6.799958200964795E-6
+4.929969695588454E-6
+3.5742280295458784E-6
+2.591315321431864E-6
+1.8787036077938524E-6
+1.3620601158059742E-6
+9.874935837927978E-7
+7.159328485606409E-7
+5.190513148178866E-7
+3.763122036204436E-7
+2.728263472917547E-7
+1.977991019863623E-7
+1.434043488401926E-7
+1.0396815275370841E-7
+7.537691093517651E-8
+Step 0: performing A2
+	Next State: [ Pos=1 | Car=RiJQ | Driver=iLhW | Tire=ALL_TERRAIN | Pressure=100% | Fuel=50 ]
+
+Step 1: performing A4
+	Next State: [ Pos=1 | Car=RiJQ | Driver=iLhW | Tire=LOW_PROFILE | Pressure=100% | Fuel=50 ]
+
+Step 2: performing A1
+	Sampled move distance=-2
+	Next State: [ Pos=1 | Car=RiJQ | Driver=iLhW | Tire=LOW_PROFILE | Pressure=100% | Fuel=40 ]
+
+Step 3: performing A1
+	Sampled move distance=4
+	Next State: [ Pos=5 | Car=RiJQ | Driver=iLhW | Tire=LOW_PROFILE | Pressure=100% | Fuel=30 ]
+
+Step 4: performing A1
+	Sampled move distance=4
+	Next State: [ Pos=9 | Car=RiJQ | Driver=iLhW | Tire=LOW_PROFILE | Pressure=100% | Fuel=22 ]
+
+Step 5: performing A6
+	Next State: [ Pos=9 | Car=RiJQ | Driver=iLhW | Tire=LOW_PROFILE | Pressure=50% | Fuel=22 ]
+
+Step 6: performing A1
+	Sampled move distance=-2
+	Next State: [ Pos=7 | Car=RiJQ | Driver=iLhW | Tire=LOW_PROFILE | Pressure=50% | Fuel=10 ]
+
+Step 7: performing A1
+	Sampled move distance=4
+	Next State: [ Pos=11 | Car=RiJQ | Driver=iLhW | Tire=LOW_PROFILE | Pressure=50% | Fuel=1 ]
+
+Step 8: performing A2
+	Next State: [ Pos=11 | Car=AAw | Driver=iLhW | Tire=LOW_PROFILE | Pressure=100% | Fuel=50 ]
+
+Step 9: performing A1
+	Sampled move distance=4
+	Next State: [ Pos=15 | Car=AAw | Driver=iLhW | Tire=LOW_PROFILE | Pressure=100% | Fuel=44 ]
+
+Step 10: performing A1
+	Sampled move distance=4
+	Next State: [ Pos=18 | Car=AAw | Driver=iLhW | Tire=LOW_PROFILE | Pressure=100% | Fuel=39 ]
+
+Goal reached after 11 steps.
+Writing steps to output file

@@ -1,0 +1,10 @@
+start;(1,0,0,rC,oBJ,all-terrain,50,100%,);(n.a.)
+0;(1,0,0,Sd,p,all-terrain,50,100%,);(A7:Sd:p)
+1;(6,0,0,Sd,p,all-terrain,44,100%,);(A1)
+2;(11,0,0,Sd,p,all-terrain,34,100%,);(A1)
+3;(16,0,0,Sd,p,all-terrain,32,100%,);(A1)
+4;(19,0,0,Sd,p,all-terrain,22,100%,);(A1)
+5;(19,0,1,Sd,p,all-terrain,19,100%,);(A1)
+7;(22,0,0,Sd,p,all-terrain,16,100%,);(A1)
+8;(25,0,0,Sd,p,all-terrain,8,100%,);(A1)
+Goal reached, you bloody ripper!

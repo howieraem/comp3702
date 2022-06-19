@@ -1,0 +1,10 @@
+start;(1,0,0,mazda,stig,all-terrain,50,100%,);(n.a.)
+0;(1,0,0,mazda,schumacher,all-terrain,50,100%,);(A3:schumacher)
+1;(1,0,0,toyota,schumacher,all-terrain,50,100%,);(A2:toyota)
+2;(3,0,0,toyota,schumacher,all-terrain,45,100%,);(A1)
+3;(4,0,0,toyota,schumacher,all-terrain,41,100%,);(A1)
+4;(6,0,0,toyota,schumacher,all-terrain,37,100%,);(A1)
+5;(7,0,0,toyota,schumacher,all-terrain,32,100%,);(A1)
+6;(8,0,0,toyota,schumacher,all-terrain,27,100%,);(A1)
+7;(10,0,0,toyota,schumacher,all-terrain,23,100%,);(A1)
+Goal reached, you bloody ripper!
